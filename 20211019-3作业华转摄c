@@ -1,0 +1,20 @@
+/**********
+time:20211010-2/20211019改
+name:作业摄转华
+By LFSW元立
+   王冠竣
+
+**********/
+
+
+
+#include<stdio.h>
+int main(void)
+{
+int C=26;//定义摄氏度C
+//printf("现在温度F");
+//scanf("%d",&C);
+int F=9/5*C+32;//定义华摄度F
+printf("F=%d,C=%d\n",F,C);
+return 0;
+}
